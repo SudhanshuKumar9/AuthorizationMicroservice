@@ -81,7 +81,7 @@ namespace Authorization.Controllers
                 var encodedData = new StringContent(jsonData, Encoding.UTF8, "application/json");
                 using (var client = new HttpClient())
                 {
-                    var response = client.PostAsync("https://localhost:44355/api/Members/", encodedData);
+                    var response = client.PostAsync("http://52.224.24.195/api/Members/", encodedData);
                     var responseData = response.Result.Content.ReadAsStringAsync();
                     memberDetail = JsonConvert.DeserializeObject<Member>(responseData.Result);
                 }

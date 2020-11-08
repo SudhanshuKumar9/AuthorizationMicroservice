@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqqaVNqJPKL5bdQN7/imysY/Z8lKQ7CBz7sPV7N3IFKfDQZhTthyQZM1IOI38x2wbjoUHg6yTbz3RSkuo8Pfqg==",
+  "dgSpecHash": "eOY5sLTmTQ/RorlKLoMb4A/+2oAWfEUmh9Fj5ZWOh8HMDyHhUEvmv6d3Ab3m4tmZ0ycfvDMpX9nz4t2Htp+6Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sud44\\OneDrive\\Desktop\\CloudDeploy\\AuthorizationTest\\AuthorizationTest.csproj",
+  "projectFilePath": "C:\\Users\\sud44\\OneDrive\\Desktop\\Deploy\\AuthDeploy\\AuthorizationTest\\AuthorizationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sud44\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\sud44\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",
